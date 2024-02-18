@@ -1,0 +1,10 @@
+1 Python
+•	Pandas
+•	sqlalchemy
+•	psycopg2
+
+2 PostgreSQL
+
+3 Dataset
+
+
